@@ -1,4 +1,4 @@
-# Python
+i# Python
 
 ## Python Mastery Roadmap – Full To-Do Checklist
 *Date: 2025-07-23*
@@ -24,7 +24,7 @@
 ### 📝 Exercises
 - [x] Build a Simple Calculator  
 - [x] Create a Guess the Number Game  
-- [ ] ATM-style Menu (Loop + Conditions)  
+- [x] ATM-style Menu (Loop + Conditions)  
 
 ### 💻 Project
 - [x] Basic Banking App  
@@ -36,12 +36,18 @@
 **Goal:** Master lists, tuples, sets, dictionaries, and string manipulation.
 
 ### ◉ Topics
-- [x] Strings – Indexing, Slicing, Methods  
+- [x] Strings – Indexing, Slicing, Methods
+- [x] Slove Problems  
 - [ ] Lists – Creation, Indexing, Methods, Nested Lists  
+- [ ] Slove Problems
 - [ ] Tuples – Immutable Sequences  
-- [ ] Sets – Unique Items, Set Operations  
-- [ ] Dictionaries – Key-Value Pairs, Methods  
-- [ ] Loops with Data Structures (`for x in list`, `dict.items()`)  
+- [ ] Slove Problems
+- [ ] Sets – Unique Items, Set Operations
+- [ ] Slove Problems
+- [ ] Dictionaries – Key-Value Pairs, Methods
+- [ ] Slove Problems
+- [ ] Loops with Data Structures (`for x in list`, `dict.items()`)
+- [ ] Slove Problems
 
 ### 📝 Exercises
 - [ ] Student Grades Tracker  
