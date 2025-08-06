@@ -1,4 +1,4 @@
-i# Python
+# Python
 
 ## Python Mastery Roadmap – Full To-Do Checklist
 *Date: 2025-07-23*
@@ -38,13 +38,13 @@ i# Python
 ### ◉ Topics
 - [x] Strings – Indexing, Slicing, Methods
 - [x] Slove Problems  
-- [ ] Lists – Creation, Indexing, Methods, Nested Lists  
-- [ ] Slove Problems
-- [ ] Tuples – Immutable Sequences  
-- [ ] Slove Problems
-- [ ] Sets – Unique Items, Set Operations
-- [ ] Slove Problems
-- [ ] Dictionaries – Key-Value Pairs, Methods
+- [x] Lists – Creation, Indexing, Methods, Nested Lists  
+- [x] Slove Problems
+- [x] Tuples – Immutable Sequences  
+- [x] Slove Problems
+- [x] Sets – Unique Items, Set Operations
+- [x] Slove Problems
+- [x] Dictionaries – Key-Value Pairs, Methods
 - [ ] Slove Problems
 - [ ] Loops with Data Structures (`for x in list`, `dict.items()`)
 - [ ] Slove Problems
